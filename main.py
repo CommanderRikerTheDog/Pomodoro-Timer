@@ -25,8 +25,8 @@ YELLOW = "#FFF4CF"
 FONT_NAME = "Courier"
 
 REPS = 0 #starts out at 0
-WORK_MIN = 0.2
-SHORT_BREAK_MIN = 0.1
+WORK_MIN = 25
+SHORT_BREAK_MIN = 5
 LONG_BREAK_MIN = 20
 
 # This is a locally used variable, but we need to tap into it for multiple methods, so we're pulling it out as a
